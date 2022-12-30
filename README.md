@@ -14,7 +14,7 @@ I've used Power BI and Power Query to build these dashboards.
 ***
 
 ## Customer Retention
-
+![image](https://user-images.githubusercontent.com/73200439/210089930-bf04fda9-556a-47e2-90ee-b74dbab75312.png)
 ***
 
 ## Diversity & Inclusion
