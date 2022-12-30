@@ -8,6 +8,7 @@ I've used Power BI and Power Query to build these dashboards.
 ***
 
 ## Call Centre Trends
+![image](https://user-images.githubusercontent.com/73200439/210089678-7610669e-5a22-405b-a415-04d0f5618065.png)
 
 
 ***
